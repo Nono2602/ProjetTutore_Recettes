@@ -1,0 +1,1018 @@
+﻿abondance, g
+abricot, g
+açai, g
+acérola, g
+agar-agar, g
+airelle, g
+alcool de violette, l
+alfalfa, g
+algue Nori, p
+amande de mer, g
+amaretto, l
+anchois, g
+andouillette, p
+andouille, p
+aneth, g
+anguille, p 
+anis, g
+angostura, l
+appenzeller, g
+araignée de mer, p
+argile, g
+armagnac, l
+asperge, p
+autruche, g
+azuki, g
+babybel, p
+bacon, g
+badiane, g
+bagel, p
+baguette, p
+banane, p
+banon, g
+bar, p
+barbue, p
+batavia, g
+bavette, g
+beaufort, g
+béchamel, l
+Bénédictine, l
+beurre de cacahuètes, g
+cacahuètes, g
+beurre de coco, g
+beurre demi-sel, g
+beurre salé, g
+bicarbonate, g
+biche, g
+bière, l
+bifteck, g
+bigorneau, g
+biscotte, g
+biscuits à la cuillère, g
+biscuit, g
+blanc d'oeuf, p
+oeuf dur, p
+oeuf de lump, g
+blanc de poulet, g
+blé noir, g
+blette, g
+bleu d'Auvergne, g
+blini, p
+boeuf haché, g
+bolognaise, g
+bonbons au caramel, p
+bouchée à la reine, p
+bouchée feuilletée, p
+boudin blanc, g
+boudin noir, g
+boudin, g
+boudoir, g
+bouillon de légumes, p
+bouillon de poisson, p
+bouillon de volaille, p
+bouillon, p
+boulgour, g
+bouquet garni, p
+bourrache, g
+Boursin, g
+branche de céléri, g
+brandade de morue, g
+bresaola, g
+Bresse Bleu, g
+brie, g
+brocciu, g
+broccoleaves, g
+brochet, g
+brocoli, g
+brousse, g
+bulot, g
+bun, p
+burrata, g
+cabillaud, g
+cacahuète, g
+cacao, g
+caille, p
+calamar, g
+calisson, g
+Calvados, l
+camembert, g
+Campari, l
+cancoillotte, g
+canette, p
+canneberge, g
+cannelle, g
+cantal, g
+capellini, g
+câpre, g
+Caprice des Anges, g
+Caprice des Dieux, g
+capucine, g
+Carambar, g
+carambole, g
+caramel, g
+cardamome, g
+carotte fane, p
+carotte, p
+carré d'agneau, g
+Carré Frais, p
+carrelet, p
+cassis, g
+cassonade, g
+caviar d’aubergine, g
+aubergine, p
+caviar de tomate, g
+cébette, p
+céleri-rave, p
+céleri, p
+cèpe, g
+céréale, g
+cerfeuil tubéreux, g
+cerfeuil, g
+céteau, p
+chair à saucisse, g
+chair de crabe, g
+champagne rosé, l
+champagne, l
+champignon de Paris, g
+champignon énoki, g
+champignon shiitaké, g
+champignon, g
+chapelure, g
+chapon, p
+chartreuse, l
+cherry brandy, l
+brandy, l
+cheveux d'ange, g
+chevreau, g
+chevreuil, g
+chicorée, g
+chipiron, g
+chipolata, p
+chips, g
+chocolat au lait, g
+chocolat blanc, g
+chocolat noir, g
+chocolat praliné, g
+chorizo, g
+chou blanc, g
+chou cheddar, g
+cheddar, g
+chou chinois, g
+chou de Bruxelles, g
+chou frisé, g
+chou graffiti, g
+chou pak choï, g
+chou romanesco, g
+chou rouge, g
+chou-fleur, g
+chouchen, l
+choucroute, g
+chouquette, p
+ciabattina, g
+ciabatta, g
+ciboulette, g
+ciboule, g
+cigale de mer, p
+cinq épices chinoises, g
+citron caviar, g
+caviar, g
+citron combava, p
+citron confit, g
+citron jaune, p
+citron vert, p
+citronnelle, g
+citrouille, g
+cive, g
+clam, g
+clémentine, p
+clou de girofle, g
+clous de girofle, g
+Coca-Cola, l
+cochon de lait, g
+cochon, g
+cocos plats, g
+coeur d'artichaut, g
+artichaut, p
+coeur de palmier, g
+cognac, l
+coing, p
+Cointreau, l
+colin, p
+colombo, g
+colorant, g
+comté, g
+concentré de tomate, g
+conchiglioni, g
+concombre, p
+confit d'oignon, g
+confit d'olive, g
+confit de canard, g
+confiture, g
+congre, p
+coppa, g
+coq, g
+coque, g
+coquelet, p
+coquille Saint-Jacques, g
+coquillette, g
+coriandre, g
+corn flakes, g
+cornichon, g
+côte de veau, g
+coteaux du Layon, g
+côtes de boeuf, g
+cottage cheese, g
+coulis de framboises, g
+courge butternut, g
+courge, g
+couscous de maïs, g
+couscous, g
+couteau, g
+crabe, g
+crackers, g
+cranberry, g
+craquelin, g
+cream cheese, g
+crème anglaise, l
+chantilly, g
+crème de coco, g
+crème de marron, g
+crème de poivron, g
+crème de soja, g
+crème de truite fumée, g
+crème fleurette, g
+crème fraîche épaisse, g
+crème liquide, g
+crème pâtissière, g
+crème, g
+crêpe, g
+crêpe dentelle, g
+cresson, g
+crevette grise, g
+crevette rose, g
+crevette tigrée, g
+crevette, g
+crosne, g
+crottin de Chavignol, g
+crozet, g
+croissant, p
+cuisse de canard, p
+canard, g
+cuisse de grenouille, p
+cuisse de poulet, p
+cumin, g
+curaçao, l
+curcuma, g
+curry, g
+daïkon, p
+Danao, l
+Danette, g
+datte, g
+denti, g
+dinde, g
+dindonneau, g
+dorade, p
+dragée rose, g
+eau de coco, l
+eau de rose, l
+eau gazeuse, l
+eau-de-vie, l
+eau, l
+échalote, g
+écrevisse, p
+edamame, g
+emmental, g
+encornet, g
+encre de seiche, l
+endive, p
+entrecôte, g
+épaule d'agneau, g
+agneau, g
+époisse, g
+escargot, g
+espadon, g
+estragon, g
+esturgeon, g
+esturgeon fumé, g
+Etivaz, g
+étrille, p
+extrait de café, p
+extrait de vanille, p
+extrait de violette, p
+faisan, g
+faisselle, g
+farce, g
+farfalle, g
+farine complète, g
+farine de blé, g
+farine de châtaigne, g
+châtaigne, g
+farine de maïs, g
+farine de manioc, g
+farine de petit épeautre, g
+farine de pois chiche, g
+farine de riz, g
+farine de riz complet, g
+farine de sarrasin, g
+farine de semoule, g
+farine, g
+faux-filet, g
+fécule, g
+feta, g
+fettucce, g
+fetuccini, g
+feuille d'algue, p
+feuille de basilic, g
+basilic, g
+feuille de brick, p
+brick, p
+feuille de chêne, g
+feuille de filo, p
+feuille de gélatine, p
+feuille de menthe, g
+feuille de riz, p
+feuilles de serpolet, g
+févette, g
+fève, g
+ficelle, g
+figue, g
+filet de barracuda, g
+filet de boeuf, g
+filet de daurade, g
+daurade, g
+filet de loup, g
+filet de porc, g
+filet de saint-pierre, g
+filet de veau, g
+filet mignon de porc, g
+filet mignon de veau, g
+flageolet, g
+flétan, g
+fleur d'oranger, p
+fleur de courgette, g
+courgette, p
+fleur de sel, g
+fleurs d'hibiscus séchées, g
+flocons d'avoine, g
+avoine, g
+foie de veau, g
+foie de volaille, g
+foie gras, g
+fond blanc de volaille, g
+fond de gibier, g
+fonio, g
+fourme d'Ambert, g
+fraise des bois, g
+fraise tagada, g
+fraise, p
+frisée, p
+fromage à raclette, g
+fromage blanc, g
+fromage de brebis, g
+fromage de chèvre, g
+fromage de chèvre frais, g
+chèvre, g
+fromage de Valençay, g
+fromage frais, g
+fromage, g
+fructose, g
+fruit confit, g
+fruit de la passion, p
+fruit exotique, g
+fruits des bois, g
+fruits rouges, g
+fruits secs, g
+fumet de poisson, g
+galette au sarrasin, p
+galette de riz, p
+gambas, p
+garam masala, g
+gariguette, g
+gaspacho, l
+gélatine, g
+gelée, g
+gelée de groseille, g
+génépi, l
+genièvre, l
+génoise, g
+germes de betteraves rouges, g
+betterave, g
+gésier, g
+Gewurztraminer, l
+gigot, g
+gin, l
+gingembre, g
+girolle, g
+glace, g
+glaçons, g
+glucose, g
+gnocchi, g
+goji, g
+gombo, g
+gorgonzola, g
+gouda, g
+gousse de vanille, p
+gousses d'ail, p
+goyave, p
+graines de chia, g
+graines de fenouil, g
+fenouil, g
+graines de lin, g
+graines de moutarde, g
+graines de pavot, g
+graines de sésame blond, g
+graines de sésame noir, g
+graines germées, g
+graines, g
+grand épeautre, g
+Grand Marnier, l
+grappe de groseille, g
+grenadine, l
+griotte, g
+griottine, g
+grondin, p
+gros sel, g
+groseille, g
+gruyère, g
+guacamole, g
+Guanciale, g
+haddock, p
+hareng, p
+hareng fumé, p
+haricots blancs, g
+haricots borlotti, g
+haricots mange-tout, g
+haricots rouges, g
+haricots verts, g
+haricot, g
+harissa, p
+herbes, g
+herbes fraîches, g
+homard, p
+huile d'arachide, l
+huile d'olive, l
+huile d’avocat, l
+avocat, p
+huile de coco, l
+huile de noisettes, l
+huile de piment, l
+huile de sésame, l
+huile de tournesol, l
+huître, p
+igname, g
+Jack Daniel's, l
+jambon blanc, g
+jambon cru, g
+jambon de Bayonne, g
+jambon de Parme, g
+jambonneau, g
+jarret de veau avec os, g
+jasmin, g
+jaune d'oeuf, p
+jeune pousse, g
+jus d'ananas, l
+ananas, g
+jus d'orange, l
+jus de citron, l
+jus de citron vert, l
+jus de grenade, l
+grenade, p
+jus de mangue, l
+jus de pamplemousse rose, l
+jus de passion, l
+jus de pomme, l
+jus de raisin rouge, l
+jus de tomate, l
+jus de truffe, l
+kadaïf, p
+kaki, p
+kale, g
+kasha, g
+kéfir, g
+Kiri, g
+kirsch, l
+kiwi, p
+knacki, g
+kombu, p
+kombucha, g
+kumquat, p
+kub or, p
+laguiole, g
+lait concentré, g
+lait d'amande, l
+lait de brebis, l
+brebis, g
+lait de coco, l
+lait de noisette, l
+lait de riz, l
+lait de soja, l
+lait demi-écrémé, l
+lait entier, l
+laitue, g
+laitue de mer, g
+laitue iceberg, g
+lançon, p
+langouste, p
+langoustine, p
+langres, g
+lapereau, p
+lapin, p
+lard, g
+lardon, g
+lasagne, p
+laurier, g
+lavagnon, g
+lavande, g
+légine, g
+légume, g
+lentilles corail, g
+lentillons, g
+lentilles, g
+levure, p
+lieu, p
+lièvre, p
+limande, p
+limequat, p
+limonade, l
+linguine, g
+liqueur, l
+lisette, g
+litchi, p
+Livarot, g
+lomo, g
+lotte, p
+lotus, g
+loup, p
+margarine, g
+macaroni, g
+macaron, g
+mâche, g
+macis, g
+magret, g
+maigre, g
+maizena, g
+Malabar, p
+manchego, g
+mandarine, p
+mangue, p
+maquereau, p
+maroilles, g
+Marsala, l
+marshmallow, g
+Martini, l
+mascarpone, g
+massala, g
+matcha, g
+Maury, l
+mayonnaise, g
+mélisse, p
+melon, p
+melon vert, p
+menthe, g
+merguez, p
+meringue, g
+merlan, p
+merlu, p
+mérou, p
+mesclun, g
+mezcal blanc, l
+miel liquide, l
+millet, g
+miel, g
+mimolette, g
+mirabelle, g
+mizuna rouge, g
+monbazillac, l
+morbier, g
+morille, g
+mortadelle, g
+morue, g
+moule, g
+mousseron, g
+moussir, g
+moutarde, g
+mouton, g
+mozzarella, g
+muesli, g
+muffin, g
+munster, g
+mûre, g
+muscade, g
+muscade râpée, g
+muscat, l
+myrtille, g
+navet, p
+nectarine, p
+Neufchâtel, g
+Noilly Prat, l
+noix de cajou, g
+noix de coco, g
+noix de pécan, g
+noix de Saint-Jacques, g
+noix, g
+nougat, g
+nougatine, g
+nouilles de riz, g
+nouilles, g
+nuoc-mâm, p
+Nutella, g
+oie, g
+oignon blanc, p
+oignon doux, p
+oignon rouge, p
+oignons grelots, p
+oignons nouveaux, p
+oignon, p
+olive noire, g
+olive verte, g
+olive, g
+onglet, g
+orange confite, g
+orange sanguine, p
+orangette, g
+orecchiette, g
+orge, g
+orge perlé, g
+orgeat, l
+origan, g
+ortie, g
+orzo, g
+os à moelle, p
+os du boucher, p
+oseille, g
+Ossau-Iraty, g
+oursin, p
+pagre, g
+pain au lait, p
+lait, l
+pain complet, g
+pain d'épices, g
+pain de campagne, g
+pain de mie, g
+pain noir, g
+pain pita, g
+pain rond, g
+pain, g
+palet breton, g
+palourde, g
+pamplemousse, p
+panais, g
+pancetta, g
+papaye, p
+paprika, g
+parmesan, g
+pastèque, g
+Pastis, l
+patate douce, g
+pâte à brioche, g
+brioche, g
+pâte à cannelloni, g
+cannelloni, g
+pâte à choux, g
+pâte à pizza, g
+pâte à raviolis chinois, g
+pâte brisée, g
+pâte d'amande, g
+pâte de riz, g
+pâte feuilletée, g
+pâte fraîche, g
+pâte sablée, g
+pâtisson, p
+pâtes, g
+pâte, g
+pêche blanche, p
+pêche de vigne, p
+pêche jaune, p
+pêche plate, p
+pêche, p
+pecorino, g
+pectine, g
+penne, g
+pépite de chocolat, g
+chocolat, g
+perche, p
+perdreau, p
+perles de tapioca, g
+perles du Japon, g
+Perrier, l
+persil, g
+persil plat, g
+pesto, g
+pétale de rose, g
+Petit Beurre, g
+beurre, g
+petit épeautre, g
+épeautre, g
+petit salé, g
+petit-suisse, p
+petits pois, g
+petits-gris, g
+pétoncle, g
+Philadelphia, g
+physalis, g
+picodon, g
+pied de porc, g
+pied de veau, g
+pigeon, p
+pignon, g
+piment blanc frais, g
+piment d’Espelette, g
+piment oiseau, g
+piment vert, g
+pimientos, g
+piment, g
+pineau, l
+pintade, p
+piquillos, g
+pissenlit, g
+pistache, g
+pistou, g
+pleurote, g
+pleurotte eryngii, g
+poire, p
+poireau, p
+pois cassé, g
+pois chiche, g
+pois gourmand, g
+pois sec, g
+poisson, g
+poitrine de porc, g
+porc, g
+poitrine fumée, g
+poivre, g
+poivron jaune, p
+poivron orange, p
+poivron rouge, p
+poivron vert , p
+poivron, p
+polenta, g
+pomélo, p
+pomme de terre, g
+pomme de terre grenaille, g
+pommeau, l
+pomme, p
+Pont-l’Évêque, g
+Porto, l
+potimarron, g
+marron, g
+potiron, g
+poudre d'amande, g
+poudre de noisettes, g
+noisette, g
+poudre a lever, g
+poularde, p
+poulette, p
+poulpe, p
+pourprier, g
+pousse d'épinard, g
+épinard, g
+pousse de bambou, g
+pousse de soja, g
+poutargue, g
+praire, g
+pralin, g
+praline, g
+protéines de lactosérum, g
+provolone, g
+prune, g
+pruneau, g
+purée d'amande, g
+purée de tomate, g
+purée, g
+quatre-épices, g
+épices, g
+quatre-quart, g
+quenelle, g
+quetsche, g
+quinoa, g
+radis, g
+radis noir, g
+radis rouge, g
+raie, g
+raifort, g
+raisin blanc, g
+raisins secs, g
+raisin, g
+rapadura, g
+rascasse, p
+ratatouille, g
+ratte, g
+raviole, g
+ravioli, g
+reblochon, p
+réglisse, g
+rhubarbe, g
+rhum, l
+rhum blanc, l
+ricotta, g
+riesling, l
+rillette, g
+risotto, g
+riz à sushi, g
+riz arborio, g
+riz basmati, g
+riz rond, g
+riz vénéré, g
+rollmops, g
+romarin, g
+roquefort, g
+roquette, g
+rosbif, g
+rosette, g
+rouget, g
+rucola, g
+rumsteck, g
+rutabaga, g
+sablé, g
+safran, g
+saindoux, g
+Saint-Marcellin, g
+Saint-Nectaire, g
+Sainte-Maure de Touraine, g
+saké, l
+salade, g
+salers, g
+salicorne, g
+salsifi, g
+San Daniele, g
+sandre, g
+sanglier, g
+sardine, g
+sardine à l'huile, g
+huile, l
+sarrasin, g
+saté, l
+sauce barbecue, g
+sauce de poisson, l
+sauce de tamari, g
+sauce marinade Teriyaki Kikkoman, g
+sauce miso, g
+miso, g
+sauce soja, l
+sauce de soja, l
+sauce tomate, g
+sauce Worcestershire, l
+sauce nuoc nam, l
+sauce chili, g
+saucisse de Francfort, l
+saucisson, g
+saucisse, g
+sauge, g
+saumon fumé, p
+saumonette, p
+saumon, p
+Sauternes, l
+sbrinz, g
+scampi, g
+seiche, g
+seitan, g
+sel, g
+semoule de blé, g
+blé, g
+semoule de maïs, g
+maïs, g
+semoule, g
+shiso, g
+sirop d'agave, l
+sirop d'érable, l
+sirop de rose, l
+rose, g
+sirop de violette, l
+sirop, l
+skyr, g
+Smarties, g
+soba, g
+sole, p
+sorbet, g
+sot-l'y-laisse, p
+Soumaintrain, g
+spaghetti, g
+spätzle, g
+speck, g
+Spéculoos, g
+spiruline, g
+St Morêt, g
+steak haché de boeuf, g
+steak, g
+sucre blond, g
+sucre brun, g
+sucre cristallisé, g
+sucre de coco, g
+sucre glace, g
+sucre grain à chouquettes, g
+chou, g
+sucre muscovado, g
+sucre roux, g
+sucre vanillé, p
+sucre, g
+sucrine, g
+sumac, g
+supion, g
+surimi, g
+Suze, l
+tabasco, p
+tacaud, p
+tacconi, g
+tacos, p
+tagliatelle, g
+tahini, p
+tamarin, g
+tandoori, g
+tapenade, g
+tapioca, g
+tarama, g
+taro, p
+telline, g
+tequila, l
+tête de moine, g
+têtes de serpolet, g
+thé noir, l
+thé vert, l
+thé, l
+thon blanc, g
+thon, g
+thym, g
+thym citron, g
+tofu, g
+Tomacouli, g
+tomate cerise, g
+cerise, g
+tomate coeur de boeuf, p
+tomate confite, g
+tomate jaune, p
+tomate verte, p
+tomates en morceaux, p
+tomates séchées, g
+tomate, p
+tomme, g
+tonic, l
+topinambour, g
+tortellini, g
+tortilla, p
+tournedos, l
+tourteau, l
+tranche de jambon fumé, p
+jambon, g
+tranche de poulet, p
+poulet, g
+poule, p
+trévise, g
+tripes, g
+triple sec, l
+trompette de la mort, g
+truffe, g
+truite, p
+tuile aux amandes, g
+amande, g
+turbot, p
+Vache qui rit, g
+vacherin, g
+vanille, g
+veau, g
+ventrèche, g
+vergeoise, g
+verjus, l
+vermicelle, g
+vermicelles de riz, g
+vermouth blanc, l
+verveine, g
+viande de boeuf, g
+boeuf, g
+viande des Grisons, g
+viande, g
+Vichy, l
+vin blanc, l
+vin rouge, l
+vinaigre balsamique, l
+vinaigre d'alcool blanc, l
+vinaigre de cidre, l
+cidre, l
+vinaigre de framboises, l
+framboise, g
+vinaigre de riz, l
+riz, g
+vinaigre de vin rouge, l
+vinaigre, l
+vin, l
+violette, g
+vitelotte, g
+vodka, l
+volaille, g
+ail, g
+waho, g
+Wahoo, g
+wakamé, g
+wasabi, g
+whisky, l
+wonton, p
+xylitol, g
+yakitori, l
+yaourt, p
+yuzu, p
+zeste d'orange, g
+orange, p
+zeste de citron, g
+citron, p
+chair, g
+café, l
+oeuf, p
